@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "CALCULADORA", "CALCULADORA.vbproj", "{67F1A114-F317-487D-B509-9DC278D0C241}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorCalculadora", "instalador\InstaladorCalculadora\InstaladorCalculadora.vdproj", "{2D8DF732-188D-4340-8B0F-60D746712105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F1A114-F317-487D-B509-9DC278D0C241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F1A114-F317-487D-B509-9DC278D0C241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F1A114-F317-487D-B509-9DC278D0C241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F1A114-F317-487D-B509-9DC278D0C241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D8DF732-188D-4340-8B0F-60D746712105}.Debug|Any CPU.ActiveCfg = Debug
+		{2D8DF732-188D-4340-8B0F-60D746712105}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2425EBDD-653B-4912-8329-CFE43BC6B003}
+	EndGlobalSection
+EndGlobal
